@@ -21,4 +21,4 @@ if height >= 120:
 print(f"Your final bill is {bill}")
 
 else:
-    print("We are sorry, but you are too short to ride the ride.")
+    print("We are sorry, but you are too short to ride the rollercoaster.")
