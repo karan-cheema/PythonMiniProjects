@@ -1,9 +1,6 @@
-<<<<<<< HEAD
-<<<<<<< HEAD
+
 name = input("Hi, welcome to the pizza place, what is your name?")
-=======
-=======
->>>>>>> 0e413b6924c9a01245c04e12cbda65f35f9a471e
+
 print("Welcome to Python Pizza Deliveries!")
 size = input("What size pizza do you want? S, M, or L ")
 add_pepperoni = input("Do you want pepperoni? Y or N ")
@@ -32,7 +29,3 @@ if add_pepperoni == "Y":
 if extra_cheese == "Y":
     bill += 1
 print(f"Your final bill is: ${bill}.")
-<<<<<<< HEAD
->>>>>>> 0e413b6924c9a01245c04e12cbda65f35f9a471e
-=======
->>>>>>> 0e413b6924c9a01245c04e12cbda65f35f9a471e
