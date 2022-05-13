@@ -4,6 +4,6 @@ random.seed(test_seed)
 
 random = random.randint(0,1)
 if random == 1:
-    print("Heads")
+    print("heads")
 else:
-    print("Tails")
+    print("tails")
