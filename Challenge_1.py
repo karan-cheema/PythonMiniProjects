@@ -6,3 +6,8 @@ chosen_word = random.choice(word_list)
 guess = input("Make a guess: ")
 
 #To Do-3 - Check if the letter the user guessed (guess) is one of the letters in the chosen_word.
+for letter in guess:
+    if guess == chosen_word:
+        print("Correct")
+    else:
+        print("Incorrect")
