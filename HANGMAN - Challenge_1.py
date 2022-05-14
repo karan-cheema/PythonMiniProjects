@@ -7,8 +7,8 @@ print(f"[HINT] the correct answer is {chosen_word}")
 guess = input("Make a guess: ").lower()
 
 #To Do-3 - Check if the letter the user guessed (guess) is one of the letters in the chosen_word.
-for letter in guess:
-    if guess == chosen_word:
+for letter in chosen_word:
+    if letter == guess:
         print("Correct")
     else:
         print("Incorrect")
