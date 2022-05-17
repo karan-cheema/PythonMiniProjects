@@ -8,5 +8,5 @@ Mini projects along side the 100 day Python coding challenge.
   <li>Heads or Tails?</li>
   <li>Banker Roulette</li>
   <li>Average Height Calculator</li>
-  <li>Hangman</li>
+  <li>Hangman - [<b>Work In Progress</b> - File is currently in Python MiniProjects] </li>
   </ul>
