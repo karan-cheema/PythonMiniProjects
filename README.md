@@ -8,4 +8,5 @@ Mini projects along side the 100 day Python coding challenge.
   <li>Heads or Tails?</li>
   <li>Banker Roulette</li>
   <li>Average Height Calculator</li>
+  <li>Hangman</li>
   </ul>
