@@ -29,7 +29,7 @@ while not end_of_game:
     print(display)
 
     #Check if there are no more "_" left in 'display'. Then all letters have been guessed.
-    
+
     if "_" not in display:
         end_of_game = True
-        print("You win.")
+        print(f"You guessed the correct word! YOU WIN.")
