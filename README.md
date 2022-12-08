@@ -1,12 +1,10 @@
 # PythonMiniProjects
 Mini projects along side the 100 day Python coding challenge. 
-<br><h2>The following side projects were created:-</h2>
-<ul>
-  <li>Rollercoaster</li>
-  <li>Pizza Ordering System</li>
-  <li>Love Calculator</li>
-  <li>Heads or Tails?</li>
-  <li>Banker Roulette</li>
-  <li>Average Height Calculator</li>
-  <li>Hangman - [<b>Work In Progress</b> - File is currently in Python MiniProjects] </li>
-  </ul>
+## The following side projects were created:-
+  - Rollercoaster
+  - Pizza Ordering System
+  - Love Calculator
+  - Heads or Tails?
+  - Banker Roulette
+  - Average Height Calculator
+  - Hangman - [<b>Work In Progress</b> - File is currently in Python MiniProjects]
